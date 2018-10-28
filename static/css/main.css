@@ -1,0 +1,9 @@
+.card-image{
+    height: 362px;
+}
+img{
+    height: 100%;
+    width: auto !important;
+    max-width: 100%;
+    object-fit: fill !important
+}
